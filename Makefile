@@ -1,3 +1,5 @@
+#Compiling .elf from .asm
+
 ASM=arm-linux-gnueabi-as
 CC=arm-linux-gnueabi-gcc-10
 NAME=$(notdir $(shell pwd))
