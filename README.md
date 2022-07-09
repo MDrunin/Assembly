@@ -1,5 +1,5 @@
-# Assembly-Arm32
-Learning Assembly (Arm32)
+# Assembly
+Learning Assembly
 
 Git HTTPS to SSH:
 
